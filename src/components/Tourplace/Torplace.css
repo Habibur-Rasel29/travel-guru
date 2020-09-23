@@ -1,0 +1,70 @@
+.card-section{
+    display: flex;
+    /* height: 300px; */
+    /* margin: 10px; */
+}
+.card-section div{
+    margin: 10px;
+    /* border-style: solid;
+    border-color: khaki; */
+
+}
+.coxsbazar{
+    background-image: url(../../images/Image/Rectangle1.png);
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 20px;
+    cursor: pointer;
+   transition: 1s;
+}
+.coxsbazar h5{
+    margin-top: 200px;
+    margin-left: 20px;
+    font-size: x-large;
+}
+.coxsbazar:hover{
+    transform: scale(1.2);
+    z-index: 2;
+}
+
+.sreemongol{
+    background-image: url(../../images/Image/Sreemongol.png);
+    width: 100%;
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    transition: 1s;
+}
+.sreemongol h5{
+    margin-top: 200px;
+    margin-left: 20px;
+    font-size: x-large;
+}
+.sreemongol:hover{
+    transform: scale(1.2);
+    z-index: 2;
+}
+
+
+.sundarbuns{
+    background-image: url(../../images/Image/sundorbon.png);
+    width: 100%;
+    background-position: left;
+    background-size: cover;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    transition: 1s;
+}
+.sundarbuns h5{
+    margin-top: 200px;
+    margin-left: 20px;
+    font-size: x-large;
+}
+.sundarbuns:hover{
+    transform: scale(1.2);
+    z-index: 2;
+}
+

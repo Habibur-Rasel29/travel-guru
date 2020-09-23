@@ -1,0 +1,26 @@
+.header-img{
+    margin-left: 100px;
+}
+
+.header-img img{
+    width: 30%;
+
+}
+.search-box{
+    margin-right: 200px;
+}
+.other-header{
+    display: flex;
+    margin-right: 100px;
+}
+.other-header>div{
+    margin:10px; 
+    font-weight: 500;
+ 
+    text-decoration: none;
+}
+
+
+
+
+

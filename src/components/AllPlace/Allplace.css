@@ -1,0 +1,26 @@
+
+.contain-map{
+    display: flex;
+
+}
+.touHotel{
+    display: flex;
+  
+}
+
+div>img{
+    width: 300px;
+    margin:10px
+}
+.ratting{
+    display: flex;
+}
+.star img{
+    width: 30%;
+}
+.span{
+    margin-top: 6px;
+}
+.hotelDetails{
+    margin: 20px;
+}

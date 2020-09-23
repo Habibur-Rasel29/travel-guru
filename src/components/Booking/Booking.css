@@ -1,0 +1,70 @@
+
+.name p{
+    color: white;
+}
+.booking-form{
+width:500px;
+ height: 450px;
+background-color: #fff;
+border-radius: 10px;
+box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+.booking-form input{
+  
+background-color: #eee;
+border: none;
+padding: 5px 5px;
+margin: 8px 0;
+width: 85%;
+margin-right: 30px;
+
+}
+.container{
+    margin-top: 100px;
+}
+.date{
+    display: flex;
+}
+.from{
+margin: 4px;
+  
+}
+input[type=text],input[type=submit]{
+    padding: 10px;
+}
+.booking{
+    background-image: url(../../images/Image/Rectangle1.png);
+    width: 100%;
+    background-size: cover;
+    height:100vh;
+    background-position: center;
+    color: white;
+} 
+.booking-page{
+position: absolute;
+top: 0px;
+left: 0px;
+width: 100%;
+height: 100%;
+background:rgba(0, 0, 0, 0.6);
+}
+
+p{
+   
+    padding: 0px;
+    color: black;
+
+}
+
+.current, .date , .submit{
+    margin-left: 40px;
+    top: 0;
+}
+.submit>input{
+    background-color: #F9A51A;
+    text-decoration: none;
+}
+.submit>input:hover{
+    background-color: darkorange;
+}
+
